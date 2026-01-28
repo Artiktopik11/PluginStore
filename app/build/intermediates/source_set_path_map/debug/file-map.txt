@@ -1,0 +1,7 @@
+com.artiktopik11.pluginstore.app-pngs-0 /data/data/com.termux/files/home/PluginStore/app/build/generated/res/pngs/debug
+com.artiktopik11.pluginstore.app-resValues-1 /data/data/com.termux/files/home/PluginStore/app/build/generated/res/resValues/debug
+com.artiktopik11.pluginstore.app-packageDebugResources-2 /data/data/com.termux/files/home/PluginStore/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.artiktopik11.pluginstore.app-packageDebugResources-3 /data/data/com.termux/files/home/PluginStore/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.artiktopik11.pluginstore.app-merged_res-4 /data/data/com.termux/files/home/PluginStore/app/build/intermediates/merged_res/debug
+com.artiktopik11.pluginstore.app-debug-5 /data/data/com.termux/files/home/PluginStore/app/src/debug/res
+com.artiktopik11.pluginstore.app-main-6 /data/data/com.termux/files/home/PluginStore/app/src/main/res
